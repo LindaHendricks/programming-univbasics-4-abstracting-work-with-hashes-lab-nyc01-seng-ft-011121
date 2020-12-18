@@ -4,9 +4,9 @@ def my_hash_creator(key, value)
   }
 end
 
-def read_from_hash("Paris", "Tour Eiffel")
+def read_from_hash(Paris, "Tour Eiffel")
  
-  "Paris" = {
+  Paris = {
     "Tour Eiffel" => "Touristes"
   }
  
